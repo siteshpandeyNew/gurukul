@@ -1,0 +1,61 @@
+{
+  "name": "gurukul-mission-school",
+  "version": "1.0.0",
+  "description": "Official website for Gurukul Mission School - A modern educational institution blending traditional wisdom with contemporary teaching methods",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000 --host=localhost",
+    "build": "npm run minify-css && npm run minify-js",
+    "minify-css": "cleancss -o dist/assets/css/style.min.css assets/css/style.css",
+    "minify-js": "terser assets/js/main.js -o dist/assets/js/main.min.js",
+    "serve": "http-server . -p 8080 -o",
+    "dev": "concurrently \"npm run watch-css\" \"npm run serve\"",
+    "watch-css": "nodemon --watch assets/css --ext css --exec \"npm run minify-css\"",
+    "deploy": "npm run build && rsync -avz --delete dist/ user@server:/var/www/html/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "education",
+    "school",
+    "website",
+    "gurukul",
+    "mission-school",
+    "learning",
+    "academics",
+    "students",
+    "teachers"
+  ],
+  "author": {
+    "name": "Gurukul Mission School",
+    "email": "info@gurukulmissionschool.com",
+    "website": "https://gurukulmissionschool.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gurukulmissionschool/website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gurukulmissionschool/website/issues"
+  },
+  "homepage": "https://gurukulmissionschool.com",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "http-server": "^14.1.1",
+    "clean-css-cli": "^5.6.2",
+    "terser": "^5.19.2",
+    "concurrently": "^8.2.0",
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie <= 11"
+  ],
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
+}
