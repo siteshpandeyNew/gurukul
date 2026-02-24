@@ -1,5 +1,5 @@
 /* ========================================
-   GURUKUL MISSION SCHOOL — Main JS v3.0 (V2 Redesign)
+   GURUKUL MISSION SCHOOL — Main JS v2.0
    ======================================== */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -21,8 +21,6 @@ document.addEventListener('DOMContentLoaded', () => {
   initCounters();
   initFormValidation();
   initTickerDuplicate();
-  initTypingEffect();
-  initParallax();
 });
 
 /* ---- Helpers ---- */
@@ -132,7 +130,7 @@ function setActiveNavLink() {
   const currentPath = window.location.pathname;
   document.querySelectorAll('.nav-link, .dropdown-menu a').forEach(link => {
     const href = link.getAttribute('href');
-    if (href && !href.startsWith('#') && currentPath.includes(href.replace(/^\.\.\//, '').replace(/^\.\//, ''))) {
+    if (href && !href.startsWith('#') && currentPath.includes(href.replace(/^\.\.\//, '').replace(/^\.\//,''))) {
       link.classList.add('active');
     }
   });
@@ -269,57 +267,4 @@ function initTickerDuplicate() {
   // Duplicate content for infinite scroll
   const items = tickerContent.innerHTML;
   tickerContent.innerHTML = items + items;
-}
-
-/* ---- V2: Typing Effect ---- */
-function initTypingEffect() {
-  const heroTitle = document.querySelector('.hero h1');
-  if (!heroTitle) return;
-
-  const originalHTML = heroTitle.innerHTML;
-  const words = ['Character.', 'Leaders.', 'Scholars.', 'Champions.'];
-  const spanEl = heroTitle.querySelector('span');
-  if (!spanEl) return;
-
-  let wordIndex = 0;
-  let charIndex = 0;
-  let isDeleting = false;
-  let currentWord = words[0];
-
-  function type() {
-    if (isDeleting) {
-      spanEl.textContent = currentWord.substring(0, charIndex - 1);
-      charIndex--;
-    } else {
-      spanEl.textContent = currentWord.substring(0, charIndex + 1);
-      charIndex++;
-    }
-
-    if (!isDeleting && charIndex === currentWord.length) {
-      setTimeout(() => { isDeleting = true; type(); }, 2000);
-      return;
-    } else if (isDeleting && charIndex === 0) {
-      isDeleting = false;
-      wordIndex = (wordIndex + 1) % words.length;
-      currentWord = words[wordIndex];
-    }
-
-    setTimeout(type, isDeleting ? 50 : 100);
-  }
-
-  setTimeout(type, 2500);
-}
-
-/* ---- V2: Parallax on Page Hero ---- */
-function initParallax() {
-  const pageHero = document.querySelector('.page-hero, .hero');
-  if (!pageHero) return;
-
-  window.addEventListener('scroll', () => {
-    const scrolled = window.scrollY;
-    if (scrolled < window.innerHeight) {
-      pageHero.style.transform = `translateY(${scrolled * 0.3}px)`;
-      pageHero.style.opacity = 1 - (scrolled * 0.001);
-    }
-  }, { passive: true });
 }

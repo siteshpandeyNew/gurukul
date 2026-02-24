@@ -1,0 +1,61 @@
+Gurukul Website Pages Schema
+
+Root
+├── index.html (Home Page)
+├── components/
+│   ├── header.html
+│   └── footer.html
+│
+└── pages/
+    ├── contact.html
+    ├── gallery.html
+    ├── mandatory-disclosure.html
+    ├── news.html
+    │
+    ├── about/
+    │   ├── affiliation.html
+    │   ├── chairman-message.html
+    │   ├── core-values.html
+    │   ├── faculty.html
+    │   ├── management.html
+    │   ├── overview.html
+    │   ├── principal-message.html
+    │   └── vision-mission.html
+    │
+    ├── academics/
+    │   ├── arts.html
+    │   ├── commerce.html
+    │   ├── curriculum.html
+    │   ├── examination.html
+    │   ├── laboratories.html
+    │   ├── library.html
+    │   ├── primary.html
+    │   ├── science.html
+    │   └── secondary.html
+    │
+    ├── achievements/
+    │   ├── board-results.html
+    │   ├── olympiads.html
+    │   ├── sports.html
+    │   └── state-level.html
+    │
+    ├── admissions/
+    │   ├── apply.html
+    │   ├── documents.html
+    │   ├── eligibility.html
+    │   ├── fee-structure.html
+    │   └── process.html
+    │
+    ├── infrastructure/
+    │   ├── classrooms.html
+    │   ├── labs.html
+    │   ├── library.html
+    │   ├── security.html
+    │   └── transport.html
+    │
+    └── student-life/
+        ├── clubs.html
+        ├── council.html
+        ├── discipline.html
+        ├── house-system.html
+        └── yoga.html
