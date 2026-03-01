@@ -1,0 +1,526 @@
+================================================================================
+   GURUKUL MISSION SCHOOL — WEBSITE CONTENT QUESTIONNAIRE
+   Answer all questions below to replace demo content with real school data.
+   For images, provide the actual photo files.
+================================================================================
+
+
+================================================================================
+SECTION A: GENERAL SCHOOL INFORMATION (Q1–Q15)
+================================================================================
+
+Q1.   What is the full official name of the school?
+Q2.   What is the school tagline/motto?
+Q3.   What year was the school established?
+Q4.   What is the CBSE affiliation number?
+Q5.   What is the school UDISE code?
+Q6.   What board is the school affiliated to? (e.g., CBSE, ICSE, State Board)
+Q7.   What classes/grades does the school offer? (e.g., Nursery to Class XII)
+Q8.   Is the school co-educational or single-gender?
+Q9.   What is the school's official website URL?
+Q10.  What is the official email address?
+Q11.  What is the primary phone number?
+Q12.  What is the secondary/alternate phone number?
+Q13.  What is the full physical address of the school?
+Q14.  What district and state is the school located in?
+Q15.  What is the PIN code?
+
+
+================================================================================
+SECTION B: HOME PAGE CONTENT (Q16–Q40)
+================================================================================
+
+Q16.  What is the main hero heading? (e.g., "Building Scholars. Creating Leaders.")
+Q17.  What is the hero subtitle text?
+Q18.  What is the hero description paragraph (2-3 lines)?
+Q19.  What text should appear on the hero badge? (e.g., "CBSE Affiliated | Nursery to XII")
+Q20.  What is the current admission session? (e.g., "2026-27")
+Q21.  What text should appear in the notification ticker? (List all announcements)
+      - Announcement 1:
+      - Announcement 2:
+      - Announcement 3:
+      - Announcement 4:
+Q22.  Total number of students currently enrolled?
+Q23.  Total number of teachers/faculty?
+Q24.  Number of years the school has been running?
+Q25.  CBSE board exam pass percentage (latest year)?
+Q26.  About preview section — short paragraph about the school (3-4 lines):
+Q27.  What are the 3 academic wings to highlight? (e.g., Primary, Secondary, Senior Secondary)
+      - Wing 1 name & class range:
+      - Wing 2 name & class range:
+      - Wing 3 name & class range:
+Q28.  "Why Choose Us" — List 6 key differentiators:
+      - Reason 1 (title + 1 line description):
+      - Reason 2:
+      - Reason 3:
+      - Reason 4:
+      - Reason 5:
+      - Reason 6:
+Q29.  Is admission currently open? (Yes/No)
+Q30.  Admission banner heading text:
+Q31.  Admission banner description text:
+Q32.  List 4 key facilities to showcase:
+      - Facility 1 (name + 1 line):
+      - Facility 2:
+      - Facility 3:
+      - Facility 4:
+Q33.  Testimonial 1 — Student/parent name, class, and quote:
+Q34.  Testimonial 2 — Student/parent name, class, and quote:
+Q35.  Testimonial 3 — Student/parent name, class, and quote:
+Q36.  Latest news/event 1 — Title, date, and short description:
+Q37.  Latest news/event 2 — Title, date, and short description:
+Q38.  Latest news/event 3 — Title, date, and short description:
+Q39.  Final CTA section heading (e.g., "Give Your Child the Best Start"):
+Q40.  Final CTA section description text:
+
+
+================================================================================
+SECTION C: ABOUT US PAGES (Q41–Q80)
+================================================================================
+
+--- Overview Page ---
+Q41.  "Our Story" — Full history of the school (1-2 paragraphs):
+Q42.  When was the school founded and by whom?
+Q43.  What was the founding vision/motivation?
+Q44.  "Our Journey" — List key milestones with years:
+      - Year 1 & milestone:
+      - Year 2 & milestone:
+      - Year 3 & milestone:
+      - Year 4 & milestone:
+      - Year 5 & milestone:
+Q45.  "What Sets Us Apart" — List 4 differentiators with descriptions:
+      - Point 1:
+      - Point 2:
+      - Point 3:
+      - Point 4:
+
+--- Vision & Mission Page ---
+Q46.  What is the school's Vision statement?
+Q47.  What is the school's Mission statement?
+Q48.  List the core objectives (4-6 points):
+Q49.  What is the school's philosophy on education?
+Q50.  Any inspirational quote the school follows?
+
+--- Chairman's Message Page ---
+Q51.  Full name of the Chairman/Chairperson:
+Q52.  Chairman's designation/title:
+Q53.  Chairman's message (3-4 paragraphs):
+Q54.  Chairman's qualifications/background (brief):
+
+--- Principal's Message Page ---
+Q55.  Full name of the Principal:
+Q56.  Principal's designation/title:
+Q57.  Principal's qualifications (degrees, experience):
+Q58.  Principal's message (3-4 paragraphs):
+Q59.  How many years of experience does the Principal have?
+
+--- Management Page ---
+Q60.  List all management committee members:
+      (For each member: Name, Designation, Brief bio)
+      - Member 1:
+      - Member 2:
+      - Member 3:
+      - Member 4:
+      - Member 5:
+Q61.  What is the management committee called? (e.g., "School Managing Committee")
+Q62.  Who is the Secretary/Manager of the school?
+
+--- Faculty Page ---
+Q63.  Total number of teaching staff?
+Q64.  Total number of non-teaching staff?
+Q65.  Student-teacher ratio?
+Q66.  List key faculty members to feature (name, subject, qualification):
+      - Faculty 1:
+      - Faculty 2:
+      - Faculty 3:
+      - Faculty 4:
+      - Faculty 5:
+      - Faculty 6:
+Q67.  Any awards or recognitions received by faculty?
+
+--- Core Values Page ---
+Q68.  List all core values of the school (with descriptions):
+      - Value 1 (name + description):
+      - Value 2:
+      - Value 3:
+      - Value 4:
+      - Value 5:
+      - Value 6:
+Q69.  What is the school's approach to character building?
+Q70.  What is the school's approach to discipline?
+
+--- Affiliation Page ---
+Q71.  CBSE affiliation number:
+Q72.  CBSE affiliation valid till (year):
+Q73.  Category of affiliation (Provisional/Permanent):
+Q74.  Society/Trust registration number:
+Q75.  Society/Trust registration date:
+Q76.  NOC number and date from state government:
+Q77.  Recognition letter number and date:
+Q78.  Building safety certificate details:
+Q79.  Fire safety certificate details:
+Q80.  Water and sanitation certificate details:
+
+
+================================================================================
+SECTION D: ACADEMICS PAGES (Q81–Q115)
+================================================================================
+
+--- Curriculum Page ---
+Q81.  Overview of the school's curriculum approach (1-2 paragraphs):
+Q82.  What teaching methodology does the school follow?
+Q83.  Are there any special programs (e.g., STEM, coding, robotics)?
+Q84.  What assessment pattern is followed? (e.g., CCE, term-based)
+Q85.  How many exams/assessments per year?
+
+--- Primary Wing (Nursery to Class V) ---
+Q86.  Description of primary wing approach:
+Q87.  List subjects taught in primary wing:
+Q88.  Any special activities for primary students?
+Q89.  Timing/schedule for primary wing:
+Q90.  Number of sections per class in primary?
+
+--- Middle Wing (Class VI to VIII) ---
+Q91.  Description of middle wing approach:
+Q92.  List subjects taught in middle wing:
+Q93.  Any special programs for middle school?
+Q94.  Number of sections per class?
+Q95.  Any lab access for middle school students?
+
+--- Secondary Wing (Class IX–X) ---
+Q96.  Description of secondary wing approach:
+Q97.  List subjects offered for Class IX-X:
+Q98.  Board exam preparation approach:
+Q99.  Class X board results (last 3 years — year, pass %, toppers):
+Q100. Any special coaching or remedial classes?
+
+--- Senior Secondary Wing (Class XI–XII) ---
+Q101. Streams offered: Science / Commerce / Arts (which ones)?
+Q102. Description of senior secondary approach:
+
+--- Science Stream ---
+Q103. Subjects offered in Science stream:
+Q104. Lab facilities available for Science:
+Q105. Class XII Science results (last 3 years):
+Q106. Notable Science achievements:
+
+--- Commerce Stream ---
+Q107. Subjects offered in Commerce stream:
+Q108. Any special commerce lab or facilities:
+Q109. Class XII Commerce results (last 3 years):
+Q110. Notable Commerce achievements:
+
+--- Arts/Humanities Stream ---
+Q111. Subjects offered in Arts stream:
+Q112. Any special facilities for Arts students:
+Q113. Class XII Arts results (last 3 years):
+Q114. Notable Arts achievements:
+
+Q115. Any competitive exam results? (JEE, NEET, CLAT, etc.)
+
+
+================================================================================
+SECTION E: ADMISSIONS PAGES (Q116–Q140)
+================================================================================
+
+--- Admission Process Page ---
+Q116. Step-by-step admission process:
+      - Step 1:
+      - Step 2:
+      - Step 3:
+      - Step 4:
+      - Step 5:
+Q117. Admission eligibility criteria for each class:
+Q118. Age criteria for Nursery/LKG/UKG admission:
+Q119. Documents required for admission (list all):
+Q120. Admission form availability (online/offline/both):
+Q121. Admission test details (if any):
+Q122. Interview process details (if any):
+Q123. Important admission dates/deadlines for current session:
+Q124. Contact person for admission inquiries (name + phone):
+
+--- Fee Structure Page ---
+Q125. Fee structure for each class (Nursery to XII):
+      - Nursery: Annual fee / Monthly fee
+      - LKG:
+      - UKG:
+      - Class I-V:
+      - Class VI-VIII:
+      - Class IX-X:
+      - Class XI-XII (Science):
+      - Class XI-XII (Commerce):
+      - Class XI-XII (Arts):
+Q126. One-time admission fee:
+Q127. Caution/Security deposit:
+Q128. Exam fee:
+Q129. Annual charges breakdown (lab fee, library fee, activity fee, etc.):
+Q130. Fee payment modes accepted (cash, online, cheque):
+Q131. Fee payment schedule (monthly, quarterly, annual):
+Q132. Any sibling discount policy?
+Q133. Any scholarship policy?
+Q134. Late fee penalty details:
+
+--- Apply Online Page ---
+Q135. Is the online form currently active? (Yes/No)
+Q136. Which session is the form for?
+Q137. Any special instructions for applicants?
+
+--- Transport Page ---
+Q138. Does the school provide transport? (Yes/No)
+Q139. List all transport routes with areas covered:
+      - Route 1 (areas + fee):
+      - Route 2:
+      - Route 3:
+      - Route 4:
+      - Route 5:
+Q140. Transport fee structure:
+
+
+================================================================================
+SECTION F: INFRASTRUCTURE PAGES (Q141–Q160)
+================================================================================
+
+--- Campus Page ---
+Q141. Total area of the school campus (in sq ft or acres):
+Q142. Description of the campus (1-2 paragraphs):
+Q143. Number of buildings:
+Q144. Number of floors:
+
+--- Classrooms Page ---
+Q145. Total number of classrooms:
+Q146. Are classrooms smart/digital classrooms?
+Q147. Classroom features (AC, projector, boards, etc.):
+
+--- Labs Page ---
+Q148. List all laboratories with descriptions:
+      - Physics Lab:
+      - Chemistry Lab:
+      - Biology Lab:
+      - Computer Lab:
+      - Math Lab:
+      - Language Lab:
+Q149. Number of computers in the computer lab:
+
+--- Library Page ---
+Q150. Total number of books in the library:
+Q151. Library timings:
+Q152. Number of journals/magazines subscribed:
+Q153. Does the library have a digital section?
+
+--- Sports Page ---
+Q154. List all sports facilities:
+      - Indoor:
+      - Outdoor:
+Q155. Sports grounds available (size, type):
+Q156. Any sports coaches employed (names, sports)?
+Q157. Swimming pool available? (Yes/No)
+
+--- Hostel Page ---
+Q158. Does the school have a hostel? (Yes/No)
+Q159. Hostel capacity (boys/girls):
+Q160. Hostel fee and facilities:
+
+
+================================================================================
+SECTION G: STUDENT LIFE PAGES (Q161–Q180)
+================================================================================
+
+--- Clubs & Societies Page ---
+Q161. List all clubs and societies:
+      - Club 1 (name + description):
+      - Club 2:
+      - Club 3:
+      - Club 4:
+      - Club 5:
+      - Club 6:
+Q162. How often do clubs meet?
+Q163. Any inter-school club competitions?
+
+--- Events & Celebrations Page ---
+Q164. List major annual events:
+      - Event 1 (name + month):
+      - Event 2:
+      - Event 3:
+      - Event 4:
+      - Event 5:
+      - Event 6:
+      - Event 7:
+      - Event 8:
+Q165. Annual Day details (month, activities):
+Q166. Sports Day details:
+Q167. Republic Day / Independence Day celebrations:
+Q168. Any cultural festivals celebrated?
+
+--- Discipline Policy Page ---
+Q169. School's discipline policy summary:
+Q170. School timings (opening and closing):
+Q171. Uniform requirements:
+Q172. Code of conduct for students:
+Q173. Rules regarding mobile phones/electronics:
+Q174. Anti-bullying policy details:
+
+--- House System Page ---
+Q175. List all houses with colors and mottos:
+      - House 1 (name, color, motto):
+      - House 2:
+      - House 3:
+      - House 4:
+Q176. House captains (current year names):
+Q177. Inter-house competitions held:
+
+--- Student Council Page ---
+Q178. Head Boy name and class:
+Q179. Head Girl name and class:
+Q180. List of student council members with positions:
+
+
+================================================================================
+SECTION H: ACHIEVEMENTS PAGES (Q181–Q195)
+================================================================================
+
+--- Academic Achievements ---
+Q181. Board exam toppers (last 3 years) — Name, class, percentage:
+      - Year 1 toppers:
+      - Year 2 toppers:
+      - Year 3 toppers:
+Q182. Any students who cracked JEE/NEET/other competitive exams:
+Q183. School rank in district/state (if any):
+Q184. 100% result in any particular year?
+
+--- Co-curricular Achievements ---
+Q185. List major co-curricular achievements (debates, quizzes, olympiads):
+      - Achievement 1:
+      - Achievement 2:
+      - Achievement 3:
+      - Achievement 4:
+      - Achievement 5:
+Q186. Any national-level achievements:
+Q187. Any science fair/exhibition awards:
+
+--- Sports Achievements ---
+Q188. List major sports achievements:
+      - Achievement 1:
+      - Achievement 2:
+      - Achievement 3:
+      - Achievement 4:
+Q189. Any state/national level sports medals:
+Q190. Any notable sports alumni:
+
+--- State/National Level ---
+Q191. List all state-level achievements:
+Q192. List all national-level achievements:
+Q193. Any international recognitions:
+Q194. Awards received by the school itself (as an institution):
+Q195. Any ranking by external agencies?
+
+
+================================================================================
+SECTION I: OTHER PAGES (Q196–Q200)
+================================================================================
+
+--- Mandatory Disclosure Page ---
+Q196. Provide the complete CBSE mandatory disclosure data (or PDF link):
+
+--- Gallery Page ---
+Q197. List gallery categories to create (e.g., Campus, Events, Sports, Labs):
+
+--- News & Events Page ---
+Q198. Latest 5 news items with dates, titles, and descriptions:
+
+--- Contact Page ---
+Q199. Google Maps embed link or coordinates for the school location:
+Q200. Office hours / working days:
+
+
+================================================================================
+================================================================================
+
+
+================================================================================
+SECTION J: IMAGE REQUESTS (IMG1–IMG50)
+================================================================================
+
+Provide high-quality photographs for each item below.
+Recommended: Landscape orientation, at least 1200px wide, JPG or PNG format.
+
+--- School Building & Campus ---
+IMG1.  School main building front view (wide angle)
+IMG2.  School entrance gate
+IMG3.  Campus aerial/drone view (if available)
+IMG4.  School name board / signage close-up
+IMG5.  School reception area
+IMG6.  School corridor/hallway
+
+--- People ---
+IMG7.  Chairman's portrait photo (formal, head & shoulders)
+IMG8.  Principal's portrait photo (formal, head & shoulders)
+IMG9.  Group photo of management committee
+IMG10. Group photo of all teaching staff
+IMG11. Group photo of all students (annual photo)
+IMG12. Individual photos of featured faculty members (6-8 photos)
+IMG13. Head Boy & Head Girl photo
+IMG14. Student Council group photo
+
+--- Classrooms & Labs ---
+IMG15. Smart classroom with students
+IMG16. Regular classroom with students
+IMG17. Physics laboratory
+IMG18. Chemistry laboratory
+IMG19. Biology laboratory
+IMG20. Computer lab with students
+IMG21. Math lab (if available)
+IMG22. Language lab (if available)
+
+--- Library ---
+IMG23. Library interior (wide shot)
+IMG24. Students reading in library
+
+--- Sports & Playground ---
+IMG25. Main playground/sports ground
+IMG26. Basketball/volleyball court
+IMG27. Students playing sports (action shots)
+IMG28. Indoor games room (if available)
+IMG29. Swimming pool (if available)
+IMG30. Sports Day event photo
+
+--- Events & Celebrations ---
+IMG31. Annual Day function stage photo
+IMG32. Republic Day / Independence Day celebration
+IMG33. Cultural event performance photo
+IMG34. Science fair/exhibition
+IMG35. Prize distribution ceremony
+IMG36. Teacher's Day celebration
+
+--- Facilities ---
+IMG37. Assembly hall/auditorium
+IMG38. Art & craft room
+IMG39. Music room
+IMG40. Dance room / activity room
+IMG41. Cafeteria / canteen
+IMG42. School bus/transport
+IMG43. Medical/first aid room
+
+--- Student Activities ---
+IMG44. Students in NCC/Scout/Guide uniform
+IMG45. Club activity in progress
+IMG46. Students at a debate/quiz competition
+IMG47. Students doing project work
+
+--- Achievements ---
+IMG48. Trophy cabinet / award display
+IMG49. Topper students with certificates
+IMG50. School receiving award/recognition (event photo)
+
+
+================================================================================
+   HOW TO USE THIS FILE
+================================================================================
+
+1. Answer every question in this file (type your answer after the question)
+2. For images, collect the actual photo files and name them IMG1.jpg, IMG2.jpg, etc.
+3. Share the completed file + image folder
+4. All demo/placeholder content on the website will be replaced with your real data
+
+IMPORTANT: The more detail you provide, the better the website will reflect
+your school. Short answers = generic content. Detailed answers = professional site.
+================================================================================
